@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IDZSwiftCommonCrypto",
+        "repositoryURL": "https://github.com/iosdevzone/IDZSwiftCommonCrypto",
+        "state": {
+          "branch": "master",
+          "revision": "d824371e670bd57eb456bbc41139b4997f7207b8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
