@@ -15,7 +15,6 @@ macPrompt prompts for credentials and outputs the entered credentials and authen
 # Usage
 build macPrompt.app and run the app as below.
 ```sh
-# install dependencies on macOS
 ➜  ~ /Applications/macPrompt.app/Contents/MacOS/macPrompt
 ➜  ~ cat /tmp/macPrompt.txt
 [!] attempting authentication: test
